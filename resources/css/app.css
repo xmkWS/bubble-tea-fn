@@ -25,6 +25,10 @@ a{
     font-family: 'Onest';
 }
 
+.logo{
+    font-family: 'Saghi';
+}
+
 @layer components {
     .container {
         @apply max-w-7xl px-5 mx-auto;
@@ -36,6 +40,6 @@ a{
         @apply text-white py-4 px-12 transition ease-in-out delay-100 border rounded border-rose-500 bg-rose-500 hover:-translate-y-1 hover:scale-110 hover:border-rose-900 hover:bg-rose-900 duration-300;
     }
     .input{
-        @apply outline-0 bg-transparent border border-white border-opacity-25 focus:border-opacity-100 rounded-b-3xl text-white py-4 px-7 placeholder-white placeholder-opacity-50 focus:placeholder-transparent transition w-96;
+        @apply outline-0 bg-transparent border text-black border-white border-opacity-25 focus:border-opacity-100 rounded-b-3xl text-white py-4 px-7 placeholder-white placeholder-opacity-50 focus:placeholder-transparent transition w-96;
     }
 }

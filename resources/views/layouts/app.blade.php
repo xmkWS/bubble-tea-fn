@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="h-full scroll-smooth focus:scroll-auto" lang="ru">
+<html class="h-full" lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -15,7 +15,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 <body class="h-full">
-    <div class="wrapper font-montserrat text-base min-h-full flex flex-col bg-rose-200 text-white">
+    <div class="wrapper font-montserrat text-base min-h-full flex flex-col bg-blue-900 text-white">
         @include('components.header')
         <main class="flex-auto">
             @yield('content')

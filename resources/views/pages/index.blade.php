@@ -7,7 +7,7 @@
         <div class="container">
             <div class="flex justify-between items-center gap-56">
                 <div class="flex items-start flex-col gap-12 w-1/2">
-                    <div class="flex flex-col gap-7 text-orange-800">
+                    <div class="flex flex-col gap-7 text-rose-500">
                         <h1 class="text-5xl">Bubble Tea</h1>
                         <p>I had to drink a lot of tea, for without it I could not work. Tea unleashes the possibilities that lie dormant in the depths of my soul.</p>
                     </div>
@@ -23,7 +23,7 @@
         <div class=" py-24 bg-rose-50">
             <div class="flex justify-center items-center gap-7">
                 <div class="flex items-start flex-col gap-12 w-8/12 ">
-                    <div class="flex flex-col gap-12 text-left text-orange-800">
+                    <div class="flex flex-col gap-12 text-left text-rose-500">
                         <h1 class="text-5xl">about us</h1>
                         <p class="text-xl text-left leading-relaxed">
                             Bubble tea, also bubble-tee, is a tea drink consisting of tea, milk or
@@ -39,7 +39,7 @@
         <div class="container py-24">
             <div class="flex justify-beetwen items-center gap-7">
                 <div class="flex items-start flex-col gap-12 w-1/2">
-                    <div class="flex flex-col gap-7 text-orange-800">
+                    <div class="flex flex-col gap-7 text-rose-500">
                         <h1 class="text-5xl">Contacts</h1>
                         <div class="flex flex-col gap-10">
                             <h3 class="text-2xl">Address:</h3>
